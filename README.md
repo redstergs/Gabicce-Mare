@@ -1,7 +1,9 @@
-Gabicce Mare Reiseführer v0.10
+Gabicce Mare – Reiseführer v0.11
 
-ZIP entpacken und den gesamten Inhalt inklusive assets/ in das GitHub-Pages-Repository hochladen.
-
-Alle drei Radtage mit GPX-basierten Karten und Höhenprofilen. Mittwoch aus Navigation entfernt; die Ankunft in Wien steht beim Dienstag.
-
-Öffnungszeiten und Regionalzug Dienstag sowie Hotel-Duschen nach Check-out bitte noch bestätigen.
+Fünf Reiter: Unterkunft, Samstag, Sonntag, San Marino, Dienstag.
+Drei Radtage in gleicher Gliederung: Einstieg, Wetter, GPX-Karte/Höhenprofil, Verlauf, aufklappbare Reiseführer-Geschichten, Abend.
+Sonntag: Fano & Gradara – Von den Römern ins Mittelalter.
+Montag: San Marino – Die Freiheit auf dem Felsen.
+Dienstag: Pesaro – Rossini und die wilde Adriaküste.
+Dienstagskarte CSS repariert. Rückreise mit Zugdetails ergänzt.
+Die Website muss über HTTPS (z. B. GitHub Pages) bereitgestellt werden, damit die lokalen JSON-Daten per fetch geladen werden.
