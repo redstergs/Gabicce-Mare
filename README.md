@@ -20,3 +20,10 @@ Alle Dateien einschließlich `assets/` in das GitHub-Pages-Repository hochladen.
 - Direktlinks wie `#sun` öffnen den richtigen Tag und halten das Hero-Foto im sichtbaren Startbereich.
 - Browser-Scroll-Wiederherstellung für den Einstieg unterbunden.
 - Alle Inhalte, Bilder, GPX-Daten und Höhenprofile gegenüber 1.0 unverändert.
+
+## v1.0.3 – aktualisierte Sonntags-GPX
+- 86,95 km, 2.296 Trackpunkte, ca. 974 hm aus den rohen GPX-Höhenwerten.
+- Karte, Höhenprofil, Download und Tourdaten erneuert.
+- In Fano Reihenfolge: Rocca Malatestiana (Text), Stadtmauer (Foto), Arco di Augusto (Foto).
+- Wegpunkte geprüft: Via Panoramica und Buena Siesta unmittelbar an der Route; Rocca ca. 27 m abseits; Stadtmauer ca. 17 m; Augustusbogen ca. 3 m. Victory-Filiale nicht als GPX-Wegpunkt erfasst, Lage am Meer noch separat abgleichen.
+- Sonstige Tage unverändert.
