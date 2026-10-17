@@ -1,3 +1,7 @@
-Gabicce Mare Reiseführer v0.8
+Gabicce Mare Reiseführer v0.9
 
-Alle Dateien inklusive assets/ in das GitHub-Pages-Repository hochladen. Die Karten benötigen Internet. Der Montags-Track und das Höhenprofil werden aus der mitgelieferten Komoot-GPX erzeugt. Bei lokalem file://-Aufruf können JSON-Fetches blockiert werden; bitte über GitHub Pages oder lokalen HTTP-Server testen. Keine Buchungscodes enthalten.
+ZIP entpacken und alle Dateien inklusive assets/ ins Stammverzeichnis des GitHub-Pages-Repositories hochladen.
+
+Sonntag und Montag: GPX-basierte Karten und Höhenprofile. Dienstag: Zeitplan und Fotos; GPX/Höhenprofil noch ausständig.
+
+Öffnungszeiten und Regionalzug Dienstag sowie Hotel-Duschen nach Check-out bitte noch bestätigen.
