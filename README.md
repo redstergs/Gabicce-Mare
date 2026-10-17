@@ -1,15 +1,16 @@
-# Gabicce Mare – persönlicher Reiseführer v0.12
+# Gabicce Mare – persönlicher Reiseführer v0.13
 
-Statische Website für GitHub Pages. Alle Dateien und den Ordner `assets` ins Repository hochladen.
+Alle Dateien einschließlich `assets/` in das GitHub-Pages-Repository laden.
 
-## Neu in v0.12
-- Sonntag, Montag und Dienstag: Wetter, GPX-Karte und Höhenprofil im Überblick, danach durchgängige chronologische Erzählung.
-- Fotos, kulinarische Empfehlungen sowie geschichtliche/geologische Vertiefungen direkt an den jeweiligen Stopps.
-- Samstag: Zugreservierungen und Restaurantbilder direkt im Reiseablauf.
-- Dienstag: Rückreise samt Buchungsstatus direkt in der Zeitleiste; keine doppelte Heimreise-Sektion.
-- Originalfotos und GPX-Daten aus v0.11 unverändert.
+## Änderungen
+- Einheitliche Zugverbindungskarten für Hin- und Rückreise: Buchungsstatus, Zugdaten, Sitz-/Fahrradinformationen (soweit vorhanden).
+- Samstag: IC 594 und RV 3931 als eigene chronologische Zugstationen.
+- Dienstag: Dispensa Emilia statt Zenzero, mit hochgeladenem Originalfoto und verlinkter Gastronomiekarte.
+- Doppelte Detailaufzählung für die Rückfahrt entfernt, überflüssige Restaurant-Rubrik am Samstag entfernt.
+- GPX-Karten, Höhenprofile, Wetter, Bildauswahl und Toureninhalte ansonsten erhalten.
 
-## Hinweise
-- Wettervorhersage wird von Open-Meteo geladen und ist erst im Vorhersagezeitraum verfügbar.
-- Karten benötigen Internetzugang (Leaflet/OpenStreetMap). Lokal via Dateiprotokoll können GPX-JSON-Fetches blockiert werden; zum Testen lokalen HTTP-Server verwenden oder GitHub Pages öffnen.
-- Zeitangaben für Stopps sind Planwerte, Regionalzug am Dienstag noch nicht gebucht.
+## Offene Punkte
+- Dienstags-Regionalzug ist noch nicht gebucht; Fahrplan und Mitnahmebedingungen prüfen.
+- Konkrete Dispensa-Emilia-Filiale, Öffnungszeiten und Platz für Bike Bags prüfen.
+- Öffnungszeiten weiterer kulinarischer Stopps prüfen; Bildausschnitte später überarbeiten.
+- Wetterdaten erst innerhalb des Vorhersagezeitraums verfügbar.
