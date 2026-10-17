@@ -26,3 +26,6 @@
 .hotel-photo-pending:after{content:'Hotelfoto folgt';position:absolute;inset:0;display:grid;place-items:center;color:#fff;font-size:13px;letter-spacing:.08em;text-shadow:0 1px 5px #234}
 .hotel-visual-placeholder{min-height:240px;display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,#a6bdb7,#365d61);color:#fff;text-align:center;padding:25px}
 .hotel-visual-title{font-family:Georgia,serif;font-size:clamp(22px,4vw,40px);letter-spacing:.08em}
+
+/* v0.7: local hero photography and hotel cards */
+.hero .hero-art{background-position:center 46%!important}.hero[data-day=hotel] .hero-art{background-position:center 45%!important}.hero[data-day=sun] .hero-art{background-position:center 55%!important}.hotel-feature-photo img{height:320px;object-position:center 45%}.hotel-photo-pending:after{display:none}
