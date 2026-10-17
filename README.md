@@ -1,8 +1,13 @@
-# Gabicce Mare – Reiseführer v0.5
+# Gabicce Mare – Reiseführer v0.6
 
-GitHub Pages: Dateien dieses Ordners ins Root des Repositories laden.
+Alle Dateien und Ordner ins Root des GitHub-Pages-Repositories laden.
 
-## Bildquellen und Grenzen
-Die Hotel- und Gastronomiekarten nutzen Live-Vorschaubilder der jeweils verlinkten offiziellen Websites bzw. Restaurantseiten über den externen Dienst `image.thum.io`. Das sind **Website-Vorschaubilder**, keine lizenzierten, lokal gespeicherten Restaurantfotos. Je nach Blockierung/Verfügbarkeit des externen Dienstes können sie fehlen. Die anderen Tages-Herobilder sind atmosphärische Unsplash-Motive und **keine verifizierten Fotos des jeweiligen Ortes**. Für eine dauerhaft stabile, hochwertige Veröffentlichung sollten eigene oder freigegebene Originalfotos unter `assets/` abgelegt werden. Keine Buchungscodes enthalten.
+## Neue Bilddateien
+Sieben vom Benutzer bereitgestellte Restaurantfotos sind in `assets/photos/*.jpg` gespeichert und werden von den Restaurantkarten direkt geladen. Keine Screenshot-Dienste mehr für diese Karten.
 
-Die GPX-Karte benötigt Leaflet/OSM über Internet; Höhenprofil ist als SVG aus eingebetteten Daten unabhängig von Kartendiensten.
+**Noch offen:** Hotel-Hero und Hotelkarten (Originalfotos fehlen), Sonntag-Hero Gradara (konkretes Foto fehlt). Diese Stellen sind bewusst als gestaltete Platzhalter markiert und nicht durch erfundene Aufnahmen ersetzt. Samstag und übrige Tages-Heros nutzen noch die bisherigen externen Atmosphärenfotos.
+
+## Technik
+Sonntags-Höhenprofil: im HTML eingebettete GPX-Werte als SVG, funktioniert ohne Netzwerk. Streckenkarte: Leaflet und OSM benötigen Internet. Wetter: Open-Meteo benötigt Internet.
+
+Sitz- und Fahrradplätze bleiben, Buchungscodes sind nicht enthalten.
