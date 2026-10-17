@@ -27,3 +27,7 @@ Alle Dateien einschließlich `assets/` in das GitHub-Pages-Repository hochladen.
 - In Fano Reihenfolge: Rocca Malatestiana (Text), Stadtmauer (Foto), Arco di Augusto (Foto).
 - Wegpunkte geprüft: Via Panoramica und Buena Siesta unmittelbar an der Route; Rocca ca. 27 m abseits; Stadtmauer ca. 17 m; Augustusbogen ca. 3 m. Victory-Filiale nicht als GPX-Wegpunkt erfasst, Lage am Meer noch separat abgleichen.
 - Sonstige Tage unverändert.
+
+
+## Version 1.0.4
+Die Gastronomiekarten aller Reisetage verwenden nun ein einheitliches Layout nach dem Vorbild des Samstags. Alle bestehenden Links, Fotos, GPX-Daten, Wetter- und Bahninformationen bleiben erhalten.
