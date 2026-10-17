@@ -1,7 +1,7 @@
-Gabicce Mare Reiseführer v0.9
+Gabicce Mare Reiseführer v0.10
 
-ZIP entpacken und alle Dateien inklusive assets/ ins Stammverzeichnis des GitHub-Pages-Repositories hochladen.
+ZIP entpacken und den gesamten Inhalt inklusive assets/ in das GitHub-Pages-Repository hochladen.
 
-Sonntag und Montag: GPX-basierte Karten und Höhenprofile. Dienstag: Zeitplan und Fotos; GPX/Höhenprofil noch ausständig.
+Alle drei Radtage mit GPX-basierten Karten und Höhenprofilen. Mittwoch aus Navigation entfernt; die Ankunft in Wien steht beim Dienstag.
 
 Öffnungszeiten und Regionalzug Dienstag sowie Hotel-Duschen nach Check-out bitte noch bestätigen.
