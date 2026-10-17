@@ -1,16 +1,15 @@
-# Gabicce Mare – persönlicher Reiseführer v0.13
+# Gabicce Mare – persönlicher Reiseführer v1.0
 
-Alle Dateien einschließlich `assets/` in das GitHub-Pages-Repository laden.
+Alle Dateien einschließlich `assets/` in das GitHub-Pages-Repository hochladen.
 
-## Änderungen
-- Einheitliche Zugverbindungskarten für Hin- und Rückreise: Buchungsstatus, Zugdaten, Sitz-/Fahrradinformationen (soweit vorhanden).
-- Samstag: IC 594 und RV 3931 als eigene chronologische Zugstationen.
-- Dienstag: Dispensa Emilia statt Zenzero, mit hochgeladenem Originalfoto und verlinkter Gastronomiekarte.
-- Doppelte Detailaufzählung für die Rückfahrt entfernt, überflüssige Restaurant-Rubrik am Samstag entfernt.
-- GPX-Karten, Höhenprofile, Wetter, Bildauswahl und Toureninhalte ansonsten erhalten.
+## Neu in v1.0
+- Sonntag: Start ca. 10 Uhr, Via Panoramica Café, Pesaro nur Durchfahrt, Buena Siesta und Gelateria Victory in Fano, Arco di Augusto und römische Stadtmauer mit Originalfotos, Gradara und Abendprogramm.
+- Rocca Malatestiana in Fano als geschichtlicher Hintergrund ohne eigenen Fotostopp.
+- Alle bisherigen Bilder, GPX-Dateien, Karten, Höhenprofile und die anderen Tagesseiten erhalten.
+- Keine GPX-Datei verändert; Streckenführung zu den Sehenswürdigkeiten wird in einem späteren Schritt abgeglichen.
+- Wetteranzeige bleibt in der bisherigen Form erhalten; Livewetter ist eine spätere Ausbaustufe.
 
-## Offene Punkte
-- Dienstags-Regionalzug ist noch nicht gebucht; Fahrplan und Mitnahmebedingungen prüfen.
-- Konkrete Dispensa-Emilia-Filiale, Öffnungszeiten und Platz für Bike Bags prüfen.
-- Öffnungszeiten weiterer kulinarischer Stopps prüfen; Bildausschnitte später überarbeiten.
-- Wetterdaten erst innerhalb des Vorhersagezeitraums verfügbar.
+## Noch offen
+- GPX-Abstecher zu den Fano-Sehenswürdigkeiten prüfen und gegebenenfalls einplanen.
+- Öffnungszeiten für Ende Oktober bestätigen.
+- Feinschliff der Bildausschnitte.
