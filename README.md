@@ -13,3 +13,10 @@ Alle Dateien einschließlich `assets/` in das GitHub-Pages-Repository hochladen.
 - GPX-Abstecher zu den Fano-Sehenswürdigkeiten prüfen und gegebenenfalls einplanen.
 - Öffnungszeiten für Ende Oktober bestätigen.
 - Feinschliff der Bildausschnitte.
+
+
+## Version 1.0.1
+- Hero-Navigation auf exakt fünf gleich breite Reiter korrigiert (Desktop).
+- Direktlinks wie `#sun` öffnen den richtigen Tag und halten das Hero-Foto im sichtbaren Startbereich.
+- Browser-Scroll-Wiederherstellung für den Einstieg unterbunden.
+- Alle Inhalte, Bilder, GPX-Daten und Höhenprofile gegenüber 1.0 unverändert.
