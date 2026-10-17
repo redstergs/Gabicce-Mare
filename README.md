@@ -1,6 +1,3 @@
-Gabicce Mare Reiseführer v0.7
+Gabicce Mare Reiseführer v0.8
 
-Alle Dateien inklusive assets/ auf GitHub Pages hochladen.
-Neue lokale Fotos: Hotel, Railjet, Gradara und Osteria dei Muré.
-Montag bis Mittwoch verwenden weiterhin die bisherigen Hintergrundbilder.
-Die übrigen Inhalte und das GPX-Höhenprofil wurden aus v0.6 übernommen.
+Alle Dateien inklusive assets/ in das GitHub-Pages-Repository hochladen. Die Karten benötigen Internet. Der Montags-Track und das Höhenprofil werden aus der mitgelieferten Komoot-GPX erzeugt. Bei lokalem file://-Aufruf können JSON-Fetches blockiert werden; bitte über GitHub Pages oder lokalen HTTP-Server testen. Keine Buchungscodes enthalten.

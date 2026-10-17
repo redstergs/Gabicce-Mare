@@ -29,3 +29,6 @@
 
 /* v0.7: local hero photography and hotel cards */
 .hero .hero-art{background-position:center 46%!important}.hero[data-day=hotel] .hero-art{background-position:center 45%!important}.hero[data-day=sun] .hero-art{background-position:center 55%!important}.hotel-feature-photo img{height:320px;object-position:center 45%}.hotel-photo-pending:after{display:none}
+
+/* v0.8 */
+#map-mon{height:370px;border-radius:6px;background:#dbe7e5}#elevation-mon svg{display:block;width:100%;height:auto;min-height:150px}.hero[data-day="mon"] .hero-art{background-position:center 48%!important}@media(max-width:600px){#map-mon{height:310px}}
