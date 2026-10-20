@@ -107,3 +107,7 @@
 #hotel .hotel-note{padding:12px 15px;background:#e2eae4;border-left:3px solid #678c7b;border-radius:4px}
 @media(max-width:750px){#hotel .hotel-overview,#hotel .hotel-story,#hotel .hotel-story-wide,#hotel .hotel-story-text,#hotel .hotel-fitness{grid-template-columns:1fr}#hotel .hotel-gallery-two{grid-template-columns:1fr}#hotel .hotel-fitness-image img{height:auto;max-height:480px;object-fit:contain;background:#f0f2ed}#hotel .hotel-figure img{height:260px}#hotel .hotel-copy{padding:20px}#hotel .hotel-gallery img{height:260px}}
 @media(max-width:440px){#hotel .hotel-facts{grid-template-columns:1fr}#hotel .hotel-facts>div:nth-last-child(2){border-bottom:1px solid #d5ded7}#hotel .hotel-facts>div:last-child{border-bottom:0}}
+
+/* v1.0.10 – framing adjustments */
+.hero[data-day="tue"] .hero-art{background-position:center 82%!important}
+#hotel .hotel-story .hotel-figure img[src$="hotel-bike-v1010.jpg"]{object-fit:cover;object-position:center center}
