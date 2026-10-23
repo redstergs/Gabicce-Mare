@@ -111,3 +111,10 @@
 /* v1.0.10 – framing adjustments */
 .hero[data-day="tue"] .hero-art{background-position:center 82%!important}
 #hotel .hotel-story .hotel-figure img[src$="hotel-bike-v1010.jpg"]{object-fit:cover;object-position:center center}
+
+/* v1.0.11: day navigation sits above the content and remains visible on scroll. */
+body > .days{position:sticky;top:0;z-index:100;display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:5px;width:calc(100% - 40px);max-width:1100px;margin:-100px auto 0;padding:8px;background:rgba(249,248,244,.97);backdrop-filter:blur(12px);border:1px solid #e1e3dc;border-radius:15px;box-shadow:0 12px 35px #122a2933}
+body > .days .day{border:0;border-radius:10px;padding:9px 2px}
+body > .days .day b{font-size:24px}
+body > .days .day span{font-size:11px}
+@media(max-width:700px){body > .days{width:calc(100% - 20px);margin-top:-135px;grid-template-columns:repeat(3,minmax(0,1fr));gap:3px}body > .days .day{padding:5px 2px;flex-direction:row;justify-content:center;gap:5px;min-height:48px}body > .days .day small{font-size:9px}body > .days .day b{font-size:19px}body > .days .day span{font-size:10px}}
